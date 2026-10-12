@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/JakeDawber/Lab-setup/tree/main)
 
 
 <h2> Certifications </h2>
