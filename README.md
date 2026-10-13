@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jake! 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/JakeDawber/Lab-setup/tree/main)
+- <b>Active Directory Home Lab</b>
+  - [Lab set up](https://github.com/JakeDawber/Lab-setup/tree/main)
 
 
 <h2> Certifications </h2>
