@@ -2,7 +2,10 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Lab set up](https://github.com/JakeDawber/Lab-setup/tree/main)
+  -  [Lab set up](https://github.com/JakeDawber/Lab-setup/tree/main)
+  -  
+
+- <b>Troubleshooting</b>
 
 
 <h2> Certifications </h2>
