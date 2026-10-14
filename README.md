@@ -7,6 +7,8 @@
 
 - <b>Troubleshooting</b>
 
+  - [Troubleshooting DNS configuration in VMware](https://github.com/JakeDawber/Troubleshooting-DNS-Configuration-in-VMware)
+
 - <b>Command line and PowerShell diagnostics</b>
   -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
   -  [PowerShell Forward and Reverse DNS Lookup](https://github.com/JakeDawber/PowerShell-Forward-and-Reverse-DNS-Lookup/tree/main)
