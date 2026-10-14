@@ -8,7 +8,7 @@
 - <b>Troubleshooting</b>
 
 - <b>Command line and PowerShell diagnostics</b>
-  -  [DNS and Active Directory health](https://github.com/JakeDawber/Lab-setup/tree/main)
+  -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
   -  
 <h2> Certifications </h2>
 
