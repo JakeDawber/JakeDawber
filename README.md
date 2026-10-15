@@ -3,7 +3,7 @@
 
 - <b>Active Directory Home Lab</b>
   -  [Lab set up](https://github.com/JakeDawber/Lab-setup/tree/main)
-  -  
+  -  [Creating Organizational Units](https://github.com/JakeDawber/Lab-setup/tree/main)
 
 - <b>Troubleshooting</b>
 
