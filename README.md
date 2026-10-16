@@ -4,6 +4,7 @@
 - <b>Active Directory Home Lab</b>
   -  [Lab set up](https://github.com/JakeDawber/Lab-setup/tree/main)
   -  [Creating Organizational Units (OU) and Security Groups](https://github.com/JakeDawber/Creating-Organizational-Units/tree/main)
+  -  [Employee Onboarding - Active Directory and Group policy](https://github.com/JakeDawber/Employee-Onboarding)
 
 - <b>Troubleshooting</b>
 
