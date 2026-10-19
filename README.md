@@ -15,21 +15,17 @@
   -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
   -  [PowerShell Forward and Reverse DNS Lookup](https://github.com/JakeDawber/PowerShell-Forward-and-Reverse-DNS-Lookup/tree/main)
   -  [Group Policy Commands](https://github.com/JakeDawber/Group-Policy-Commands/tree/main)
-<h2> Certifications </h2>
+<h2>📋 Certifications </h2>
 
 - [CompTIA A+](https://www.credly.com/badges/3cf0115d-b7ba-4f3c-a3f9-37e1f93b59ec/public_url)
 - [CompTIA Tech+](https://www.credly.com/badges/dc46a331-070a-479d-93c8-c2abda9dfb2d/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+
+
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
