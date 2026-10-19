@@ -5,6 +5,7 @@
   -  [Lab Set up](https://github.com/JakeDawber/Lab-setup/tree/main)
   -  [Creating Organizational Units (OU) and Security Groups](https://github.com/JakeDawber/Creating-Organizational-Units/tree/main)
   -  [Employee Onboarding - Active Directory and Group policy](https://github.com/JakeDawber/Employee-Onboarding)
+  -  [Creating and Applying Group Policy Objects (GPOs)](https://github.com/JakeDawber/Creating-and-Applying-GPOs/tree/main)
 
 - <b>Troubleshooting</b>
 
