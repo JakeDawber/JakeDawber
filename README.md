@@ -6,6 +6,7 @@
   -  [Creating Organizational Units (OU) and Security Groups](https://github.com/JakeDawber/Creating-Organizational-Units/tree/main)
   -  [Employee Onboarding - Active Directory and Group policy](https://github.com/JakeDawber/Employee-Onboarding)
   -  [Creating and Applying Group Policy Objects (GPOs)](https://github.com/JakeDawber/Creating-and-Applying-GPOs/tree/main)
+  -  [Network Sharing and Dive Mapping](https://github.com/JakeDawber/Network-Sharing-and-Drive-Mapping)
 
 - <b>Troubleshooting</b>
 
