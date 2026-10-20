@@ -11,6 +11,7 @@
 - <b>Troubleshooting</b>
 
   - [Troubleshooting DNS configuration in VMware](https://github.com/JakeDawber/Troubleshooting-DNS-Configuration-in-VMware)
+  - [Ticket 001 — Active Directory Account Lockout](https://github.com/JakeDawber/AD-Account-Lockout)
 
 - <b>Command line and PowerShell diagnostics</b>
   -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
