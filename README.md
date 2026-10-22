@@ -15,6 +15,7 @@
   - [Ticket 002 — Shared Folder Access Denied](https://github.com/JakeDawber/Shared-Folder-Access-Denied)
   - [Ticket 003 — Group Policy Not Applying](https://github.com/JakeDawber/Group-Policy-Not-Applying)
   - [Ticket 004 — Missing Network Drive (Group Policy Troubleshooting)](https://github.com/JakeDawber/Missing-Network-Drive)
+  - [Ticket 005 — DNS Misconfiguration and Active Directory Connectivity Troubleshooting](https://github.com/JakeDawber/DNS-Misconfiguration)
 
 - <b>Command line and PowerShell diagnostics</b>
   -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
