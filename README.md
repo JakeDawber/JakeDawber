@@ -21,6 +21,7 @@
   -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
   -  [PowerShell Forward and Reverse DNS Lookup](https://github.com/JakeDawber/PowerShell-Forward-and-Reverse-DNS-Lookup/tree/main)
   -  [Group Policy Commands](https://github.com/JakeDawber/Group-Policy-Commands/tree/main)
+  -  [DNS Misconfiguration Command Line Tools](https://github.com/JakeDawber/DNS-Misconfiguration-Command-Line-Tools)
 <h2>📋 Certifications </h2>
 
 - [CompTIA A+](https://www.credly.com/badges/3cf0115d-b7ba-4f3c-a3f9-37e1f93b59ec/public_url)
