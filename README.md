@@ -16,6 +16,7 @@
   - [Ticket 003 — Group Policy Not Applying](https://github.com/JakeDawber/Group-Policy-Not-Applying)
   - [Ticket 004 — Missing Network Drive (Group Policy Troubleshooting)](https://github.com/JakeDawber/Missing-Network-Drive)
   - [Ticket 005 — DNS Misconfiguration and Active Directory Connectivity Troubleshooting](https://github.com/JakeDawber/DNS-Misconfiguration)
+  - [Ticket 006 — User Missing Application Access](https://github.com/JakeDawber/User-Missing-Application-Access)
 
 - <b>Command line and PowerShell diagnostics</b>
   -  [DNS and Active Directory health](https://github.com/JakeDawber/DNS-and-Active-Directory-Health)
