@@ -34,5 +34,5 @@
 
 
 
-[Linkedin](www.linkedin.com/in/jake-dawber-804924309)
+Linkedin: www.linkedin.com/in/jake-dawber-804924309
 
